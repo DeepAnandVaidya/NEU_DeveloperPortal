@@ -38,13 +38,6 @@ An app to connect northeastern developers together
 2. Run the backend project using the command `node server.js`
 
 
-## Student Details
-
-1. Name: Deep Anand Vaidya               NU ID : 1099996 Email : vaidya.de@northeastern.edu
-2. Name: Sonali Singh                    NU ID : 2105639 Email : kumbla.s@northeastern.edu
-3. Name: Neha Vijay Batula               NU ID : 1044188 Email : kumbla.s@northeastern.edu
-4. Name: Sanyuktha Bhagyavahana Kumbla   NU ID : 1002432 Email : kumbla.s@northeastern.edu
-
 ## License
 
 MIT © [Deep Anand Vaidya](https://www.linkedin.com/in/deep-vaidya-616526b4/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABhISfIB6Vvt4YA3e9tnBiGim1Sdo9CrytY)
